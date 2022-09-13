@@ -1,4 +1,4 @@
-<p> <img src="https://custom-icon-badges.herokuapp.com/badge/state-In development-ea4aaa?color=98fb98&style=for-the-badge&logo=rocket&logoColor=white"/>    <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/natalianrs/natalianrs.github.io?color=98fb98&style=for-the-badge&logo=history&logoColor=white"/>  
+<p> <img src="https://custom-icon-badges.herokuapp.com/badge/state-In development-ea4aaa?color=9dd4ad&style=for-the-badge&logo=rocket&logoColor=white"/>    <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/natalianrs/natalianrs.github.io?color=9dd4ad&style=for-the-badge&logo=history&logoColor=white"/>  
    </p>
 
 # Automating data pipelines with airflow
