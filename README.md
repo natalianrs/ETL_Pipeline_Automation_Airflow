@@ -1,6 +1,6 @@
 # Automating data pipelines with airflow
 
-<p> <img src="https://custom-icon-badges.herokuapp.com/badge/state-In development-ea4aaa?color=9dd4ad&style=for-the-badge&logo=rocket&logoColor=white"/>    <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/natalianrs/natalianrs.github.io?color=9dd4ad&style=for-the-badge&logo=history&logoColor=white"/>  
+<p> <img src="https://custom-icon-badges.herokuapp.com/badge/state-In development-ea4aaa?color=9dd4ad&style=for-the-badge&logo=rocket&logoColor=white"/>    <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/natalianrs/ETL_Pipeline_Automation_Airflow?color=9dd4ad&style=for-the-badge&logo=history&logoColor=white"/>  
    </p>
 <br> <br> 
 
