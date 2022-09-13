@@ -8,5 +8,5 @@ Building an automation to run an etl pipeline scheduled hourly using apache airf
 ![image](https://user-images.githubusercontent.com/45455288/190024434-1c1242ab-42b3-41ba-a680-215a442bb8e7.png)
 
 ## Installing Airflow
-To install apache airflow run `pip install airflow`
+To install apache airflow run `pip install airflow` <br> 
 Running locally `airflow webserver -p 8080`
