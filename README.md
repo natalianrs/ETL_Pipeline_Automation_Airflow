@@ -1,7 +1,9 @@
+# Automating data pipelines with airflow
+
 <p> <img src="https://custom-icon-badges.herokuapp.com/badge/state-In development-ea4aaa?color=9dd4ad&style=for-the-badge&logo=rocket&logoColor=white"/>    <img src="https://custom-icon-badges.herokuapp.com/github/last-commit/natalianrs/natalianrs.github.io?color=9dd4ad&style=for-the-badge&logo=history&logoColor=white"/>  
    </p>
+<br> <br> 
 
-# Automating data pipelines with airflow
 Building an automation to run an etl pipeline scheduled hourly using apache airflow; <br> 
 ![image](https://user-images.githubusercontent.com/45455288/190024434-1c1242ab-42b3-41ba-a680-215a442bb8e7.png)
 
